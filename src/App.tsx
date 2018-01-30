@@ -2,7 +2,7 @@ import * as React from 'react';
 import './App.css';
 import * as cookie from 'cookie_js';
 
-cookie.set('key', 'value'); //  Module ''cookie_js'' has no exported member 'cookie'.
+cookie.set('key', 'value'); // no error
 
 const logo = require('./logo.svg');
 
