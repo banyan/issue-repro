@@ -1,5 +1,8 @@
 import * as React from 'react';
 import './App.css';
+import * as cookie from 'cookie_js';
+
+cookie.set('key', 'value'); //  TypeError: cookie.set is not a function
 
 const logo = require('./logo.svg');
 
