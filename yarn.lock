@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@types/cookie_js@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@types/cookie_js/-/cookie_js-1.2.0.tgz#2d0b6a5c736ee8de77dbe505d62675f8334a076b"
+
 "@types/jest@^22.1.0":
   version "22.1.0"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-22.1.0.tgz#c1de03bbac66fac4cc741f7a69cb73bc01a1707c"
@@ -1000,6 +1004,10 @@ cookie-signature@1.0.6:
 cookie@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
+
+cookie_js@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/cookie_js/-/cookie_js-1.2.2.tgz#51bed5f02966e26647b5368d1f5975b5f01906c4"
 
 core-js@^1.0.0:
   version "1.2.7"

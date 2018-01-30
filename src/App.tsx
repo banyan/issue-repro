@@ -1,5 +1,8 @@
 import * as React from 'react';
 import './App.css';
+import { cookie } from 'cookie_js';
+
+cookie.set('key', 'value'); //  Module ''cookie_js'' has no exported member 'cookie'.
 
 const logo = require('./logo.svg');
 
